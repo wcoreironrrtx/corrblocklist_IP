@@ -1,4 +1,4 @@
-# corrblocklist_IP_MS
+# corrblocklist_IP_MS-ISAC
 
 151.236.127.145
 213.155.156.184
