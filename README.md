@@ -1,4 +1,4 @@
-# corrblocklist_IP_MS-ISAC
+#corrblocklist_IP_MS-ISAC
 
 151.236.127.145
 213.155.156.184
@@ -59,13 +59,13 @@
 45.32.137.94
 
 
-# Conti Ransomware
+#Conti Ransomware
 162.244.80.235
 85.93.88.165
 185.141.63.120
 82.118.21.1
 
-# SSH bruteforce
+#SSH bruteforce
 212.83.8.79 
 212.83.8.75
 188.59.89.2
@@ -133,11 +133,11 @@
 
 #SolarWinds Releases Advisory for Serv-U Vulnerability
 
- 98.176.196.89
- 68.235.178.32
- 208.113.35.58
- 144.34.179.162
- 97.77.97.58
+98.176.196.89
+68.235.178.32
+208.113.35.58
+144.34.179.162
+97.77.97.58
  
 #B1txor20 linux botnet IOC
 179.60.150.23
